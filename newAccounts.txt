@@ -1,0 +1,15 @@
+Kyle Busch, 241112323, Checking, 15000
+Kurt Busch, 243112121, Checking, 10000
+Bubba Wallace, 242121122, Savings, 9000
+Richard Petty, 211232412, Savings, 20000
+Martin Truex, 234223322, Checking, 8000
+Erik Jones, 240442355, Checking, 7000
+Denny Hamlin, 242336755, Savings, 10000
+Kevin Harvick, 240334523, Savings, 11000
+Clint Bowyer, 233117799, Checking, 12000
+Ryan Newman, 212339087, Checking, 6000
+Joey Gase, 253442789, Savings, 3000
+Jimmie Johnson, 240443356, Checking, 20000
+Alex Bowman, 214256528, Savings, 3000
+Chase Elliott, 251226532, Checking, 10000
+Matt DiBenedetto, 250523287, Checking, 7000
